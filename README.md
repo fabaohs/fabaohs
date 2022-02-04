@@ -1,7 +1,7 @@
 ### Olá, mundo!:vulcan_salute: Sou o Fábio Henrique!
 
-- :computer: Atuo como web developer;
-- :books: Estudando JavaScript ES6;
+- :computer: Atuo como web developer com foco no Back-End;
+- :books: Atualmente estou estudando NodeJs com Express;
 - :phone: Contate-me através do e-mail: fabiohenriquesf8@gmail.com;
 
 <div style="display: inline_block margin-bottom: 2em" align="center"><br>
@@ -9,6 +9,9 @@
   <img align="center" alt="Fábio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fábio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fábio-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Fábio-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Fábio-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
 </div>
 
 <div align="center">
