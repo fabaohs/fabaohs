@@ -1,4 +1,4 @@
-### Olá, mundo!:vulcan_salute: Sou o Fábio Henrique!
+### Olá, mundo! Sou o Fábio Henrique!
 
 - :computer: Desenvolvedor Web Fullstack Pleno;
 - :books: Estudando Identity;
