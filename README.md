@@ -1,7 +1,7 @@
 ### Olá, mundo!:vulcan_salute: Sou o Fábio Henrique!
 
-- :computer: Atuo como web developer com foco no Back-End;
-- :books: Atualmente estou estudando NodeJs com Express;
+- :computer: Desenvolvedor Web Fullstack Pleno;
+- :books: Estudando Identity;
 - :phone: Contate-me através do e-mail: fabiohenriquesf8@gmail.com;
 
 <div style="display: inline_block margin-bottom: 2em" align="center"><br>
