@@ -12,7 +12,10 @@
   <img align="center" alt="Fábio-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Fábio-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
-  <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/c#-original.svg">
+  <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 <div align="center">
