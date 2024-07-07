@@ -1,7 +1,7 @@
 ### Olá, mundo! Sou o Fábio Henrique!
 
 - :computer: Desenvolvedor Web Fullstack Pleno;
-- :books: Estudando Identity;
+- :books: Estudando Docker;
 - :phone: Contate-me através do e-mail: fabiohenriquesf8@gmail.com;
 
 <div style="display: inline_block margin-bottom: 2em" align="center"><br>
@@ -12,6 +12,7 @@
   <img align="center" alt="Fábio-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Fábio-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
+  <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/c#-original.svg">
 </div>
 
 <div align="center">
