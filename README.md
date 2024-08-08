@@ -1,8 +1,8 @@
 ### Olá, mundo! Sou o Fábio Henrique!
 
-- :computer: Desenvolvedor Web Fullstack Pleno;
-- :books: Estudando Docker;
-- :phone: Contate-me através do e-mail: fabiohenriquesf8@gmail.com;
+- :computer: Desenvolvedor Web Fullstack apaixonado por construir um novo mundo com código;
+- :books: Atualmente estudando Docker/Jenkins para uma melhor compreensão de CI/CD;
+- :phone: Contate-me através do e-mail: fabiohenriquesf8@gmail.com; ou do meu número: 
 
 <div style="display: inline_block; margin-bottom: 2rem;" align="center"><br>
   <img align="center" alt="Fábio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
