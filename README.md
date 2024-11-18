@@ -19,14 +19,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/fabaohs">
+  <a href="https://github.com/fabaohs">Repositories</a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabaohs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabaohs&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-##
-
-  <a href = "mailto:fabiohenriquesf8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabiohti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/fabaohs/fabaohs/blob/output/github-contribution-grid-snake.svg)
+<a href ="mailto:fabiohenriquesf8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fabiohti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
