@@ -2,7 +2,8 @@
 
 - :computer: Fullstack Web Developer actually working on Devvo Tecnologia;
 - :books: Studying web sockets;
-- :phone: Contact me through the email: fabiohenriquesf8@gmail.com; 
+- :phone: Contact me through the email: fabiohenriquesf8@gmail.com;
+- :hammer_and_pick: <a href="https://github.com/fabaohas">Projects</a> 
 
 <div style="display: inline_block; margin-bottom: 2rem;" align="center"><br>
   <img align="center" alt="Fábio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,12 +17,6 @@
   <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Fábio-Handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-<div align="center">
-  <a href="https://github.com/fabaohs">Repositories</a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabaohs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabaohs&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <a href ="mailto:fabiohenriquesf8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
