@@ -3,7 +3,7 @@
 - :computer: Fullstack Web Developer actually working on Devvo Tecnologia;
 - :books: Studying web sockets;
 - :phone: Contact me through the email: fabiohenriquesf8@gmail.com;
-- :hammer_and_pick: <a href="https://github.com/fabaohas">Projects</a> 
+- :hammer_and_pick: <a href="https://github.com/fabaohs">Projects</a> 
 
 <div style="display: inline_block; margin-bottom: 2rem;" align="center"><br>
   <img align="center" alt="Fábio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
