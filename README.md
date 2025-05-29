@@ -1,7 +1,7 @@
 ### Hello, World! Im Fábio Henrique!
 
 - :computer: Fullstack Web Developer at Level33;
-- :books: Studying AI integrations;
+- :books: Studying Devops;
 - :phone: Contact me through the email: fabiohenriquesf8@gmail.com;
 - :hammer_and_pick: <a href="https://github.com/fabaohs">Projects</a> 
 
