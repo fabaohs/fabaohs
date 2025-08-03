@@ -11,12 +11,17 @@
 
 **Aplicações e dados**
 
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
@@ -31,6 +36,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Gitlab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant)
+![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Portainer](https://img.shields.io/badge/-Portainer-333333?style=flat&logo=portainer)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
