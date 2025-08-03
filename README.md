@@ -7,9 +7,9 @@
 - 💼 Working as Tech Lead in App Squad at Level33.
 - 🌱 Learning more about CI/CD https://github.com/fabaohs/devops-experiences
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Application and data**
 
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=00599C)
@@ -25,7 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-**Utilidades**
+**Utils**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -49,7 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabaohs&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Contact me
 
 [![Linkedin](https://img.shields.io/badge/-fabiohti-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiohti/)](https://www.linkedin.com/in/fabiohti/)
 [![Gmail Badge](https://img.shields.io/badge/-fabiohenriquesf8@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiohenriquesf8@gmail.com)](mailto:fabiohenriquesf8@gmail.com)
